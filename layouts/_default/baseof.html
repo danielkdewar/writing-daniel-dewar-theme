@@ -42,6 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <link rel="next" href="{{ .Params.next }}">
     {{ end }}
     {{ partial "head/favicon.html" . }}
+    {{ partial "head/opengraph.html" . }}
     {{ partial "global-styles.html" . }}
     {{ partial "async-scripts.html" . }}
   </head>
