@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "lodash-cli": "^4.17.5",
-    "standard-version": "^4.4.0"
+    "standard-version": "^7.1.0"
   },
   "license": "WTFPL"
 }
